@@ -26,11 +26,11 @@ public class Objective7Lab5 {
 
 			else if (selection == 3) {
 				System.out.println("Goodbye");
-				break;
 			}
 
 			else {
 				System.out.println("Invalid selection - Please try again \n \n \n");
+				break;
 			}
 
 		}
